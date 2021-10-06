@@ -1,4 +1,6 @@
 # Template structure
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fv1a0%2Faiogram-bot-template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fv1a0%2Faiogram-bot-template?ref=badge_shield)
+
 
 ```shell
 aiogram-bot-template
@@ -16,3 +18,6 @@ aiogram-bot-template
     |   start.py        # template handler for /start and /indo
     |   text_message.py # template handlers for TEXT-messages
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fv1a0%2Faiogram-bot-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fv1a0%2Faiogram-bot-template?ref=badge_large)
